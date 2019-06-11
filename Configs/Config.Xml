@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE xml>
+<PropertywareAPI>	
+	<Credentials>
+		<NormalOrg>
+			<UserName><![CDATA[yamini.vutukuru@realpage.com]]></UserName>
+			<Password><![CDATA[Realpage12]]></Password>
+		</NormalOrg>
+		<EnterpriseOrg>
+			<UserName><![CDATA[jwood@msrenewal.com]]></UserName>
+			<Password><![CDATA[Realpage12]]></Password>
+		</EnterpriseOrg>
+	</Credentials>	
+	<DataBaseSettings name="irepm_control" port="3306">
+		<Database name="SIT">
+			<DBUserName><![CDATA[pwapp]]></DBUserName>
+			<DBPassword><![CDATA[ClecH1u0]]></DBPassword>
+		</Database>
+		<Database name="SAT">
+			<DBUserName><![CDATA[pwapp]]></DBUserName>
+			<DBPassword><![CDATA[ClecH1u0]]></DBPassword>
+		</Database>
+		<Database name="OCR">
+			<DBUserName><![CDATA[pwapp]]></DBUserName>
+			<DBPassword><![CDATA[ClecH1u0]]></DBPassword>
+		</Database>
+		<Database name="PROD">
+			<DBUserName><![CDATA[pwapp]]></DBUserName>
+			<DBPassword><![CDATA[ClecH1u0]]></DBPassword>
+		</Database>		
+	</DataBaseSettings>
+</PropertywareAPI>  

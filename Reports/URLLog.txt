@@ -1,0 +1,179 @@
+https://sit.propertyware.com/pw/api/v/conversations/
+https://sit.propertyware.com/pw/api/v/conversations/validate
+https://sit.propertyware.com/pw/api/v/conversations/validate
+https://sit.propertyware.com/pw/api/v/conversations/
+https://sit.propertyware.com/pw/api/v/relatedItems
+https://sit.propertyware.com/pw/api/v/conversations/0/10/A
+https://sit.propertyware.com/pw/api/v/conversations/0/10/U
+https://sit.propertyware.com/pw/api/v/conversations/0/10/T
+https://sit.propertyware.com/pw/api/v/conversations/0/10/O
+https://sit.propertyware.com/pw/api/v/conversations/2069954561
+https://sit.propertyware.com/pw/api/v/calendar/events
+https://sit.propertyware.com/pw/api/v/calendar/events/1736015872
+https://sit.propertyware.com/pw/api/v/calendar/events
+https://sit.propertyware.com/pw/api/v/calendar/events/1736015872
+https://sit.propertyware.com/pw/api/v/calendar/showings?viewedBy=calendar_day&selectedDate=2019-01-25
+https://sit.propertyware.com/pw/api/v/calendar/showings?viewedBy=calendar_week&selectedDate=2019-01-25
+https://sit.propertyware.com/pw/api/v/calendar/showings?viewedBy=calendar_month&selectedDate=2019-01-25
+https://sit.propertyware.com/pw/api/v/calendar/events?userId=346161152
+https://sit.propertyware.com/pw/api/v/calendar/appointmentTypes
+https://sit.propertyware.com/pw/api/v/calendar/events?appointmentType=Showing
+https://sit.propertyware.com/pw/api/v/calendar/events?appointmentType=Appointment
+https://sit.propertyware.com/pw/api/v/calendar/events?appointmentType=Inspection
+https://sit.propertyware.com/pw/api/v/calendar/events?appointmentType=Lease Signing
+https://sit.propertyware.com/pw/api/v/calendar/events?appointmentType=Meeting
+https://sit.propertyware.com/pw/api/v/calendar/events?appointmentType=Move In Walk Thru
+https://sit.propertyware.com/pw/api/v/calendar/events?appointmentType=Move Out Walk Thru
+https://sit.propertyware.com/pw/api/v/calendar/events?appointmentType=Other
+https://sit.propertyware.com/pw/api/v/calendar/appointmentTypes
+https://sit.propertyware.com/pw/api/v/dashboards/users
+https://sit.propertyware.com/pw/api/v/calendar/events?appointmentType=Showing&UserID=875233281
+https://sit.propertyware.com/pw/api/v/calendar/events?appointmentType=Showing&UserID=717160448
+https://sit.propertyware.com/pw/api/v/calendar/events?appointmentType=Showing&UserID=691830784
+https://sit.propertyware.com/pw/api/v/calendar/events?appointmentType=Showing&UserID=947453953
+https://sit.propertyware.com/pw/api/v/calendar/events?appointmentType=Showing&UserID=847740928
+https://sit.propertyware.com/pw/api/v/calendar/events?appointmentType=Showing&UserID=1089208320
+https://sit.propertyware.com/pw/api/v/calendar/events?appointmentType=Showing&UserID=1173422080
+https://sit.propertyware.com/pw/api/v/calendar/events?appointmentType=Showing&UserID=844267520
+https://sit.propertyware.com/pw/api/v/calendar/events?appointmentType=Showing&UserID=1184727040
+https://sit.propertyware.com/pw/api/v/calendar/events?appointmentType=Showing&UserID=1181777928
+https://sit.propertyware.com/pw/api/v/calendar/events?appointmentType=Showing&UserID=851378176
+https://sit.propertyware.com/pw/api/v/calendar/events?appointmentType=Showing&UserID=346161152
+https://sit.propertyware.com/pw/api/v/calendar/events?appointmentType=Showing&UserID=1069154304
+https://sit.propertyware.com/pw/api/v/calendar/events?appointmentType=Showing&UserID=637337600
+https://sit.propertyware.com/pw/api/v/calendar/events?appointmentType=Appointment&UserID=875233281
+https://sit.propertyware.com/pw/api/v/calendar/events?appointmentType=Appointment&UserID=717160448
+https://sit.propertyware.com/pw/api/v/calendar/events?appointmentType=Appointment&UserID=691830784
+https://sit.propertyware.com/pw/api/v/calendar/events?appointmentType=Appointment&UserID=947453953
+https://sit.propertyware.com/pw/api/v/calendar/events?appointmentType=Appointment&UserID=847740928
+https://sit.propertyware.com/pw/api/v/calendar/events?appointmentType=Appointment&UserID=1089208320
+https://sit.propertyware.com/pw/api/v/calendar/events?appointmentType=Appointment&UserID=1173422080
+https://sit.propertyware.com/pw/api/v/calendar/events?appointmentType=Appointment&UserID=844267520
+https://sit.propertyware.com/pw/api/v/calendar/events?appointmentType=Appointment&UserID=1184727040
+https://sit.propertyware.com/pw/api/v/calendar/events?appointmentType=Appointment&UserID=1181777928
+https://sit.propertyware.com/pw/api/v/calendar/events?appointmentType=Appointment&UserID=851378176
+https://sit.propertyware.com/pw/api/v/calendar/events?appointmentType=Appointment&UserID=346161152
+https://sit.propertyware.com/pw/api/v/calendar/events?appointmentType=Appointment&UserID=1069154304
+https://sit.propertyware.com/pw/api/v/calendar/events?appointmentType=Appointment&UserID=637337600
+https://sit.propertyware.com/pw/api/v/calendar/events?appointmentType=Inspection&UserID=875233281
+https://sit.propertyware.com/pw/api/v/calendar/events?appointmentType=Inspection&UserID=717160448
+https://sit.propertyware.com/pw/api/v/calendar/events?appointmentType=Inspection&UserID=691830784
+https://sit.propertyware.com/pw/api/v/calendar/events?appointmentType=Inspection&UserID=947453953
+https://sit.propertyware.com/pw/api/v/calendar/events?appointmentType=Inspection&UserID=847740928
+https://sit.propertyware.com/pw/api/v/calendar/events?appointmentType=Inspection&UserID=1089208320
+https://sit.propertyware.com/pw/api/v/calendar/events?appointmentType=Inspection&UserID=1173422080
+https://sit.propertyware.com/pw/api/v/calendar/events?appointmentType=Inspection&UserID=844267520
+https://sit.propertyware.com/pw/api/v/calendar/events?appointmentType=Inspection&UserID=1184727040
+https://sit.propertyware.com/pw/api/v/calendar/events?appointmentType=Inspection&UserID=1181777928
+https://sit.propertyware.com/pw/api/v/calendar/events?appointmentType=Inspection&UserID=851378176
+https://sit.propertyware.com/pw/api/v/calendar/events?appointmentType=Inspection&UserID=346161152
+https://sit.propertyware.com/pw/api/v/calendar/events?appointmentType=Inspection&UserID=1069154304
+https://sit.propertyware.com/pw/api/v/calendar/events?appointmentType=Inspection&UserID=637337600
+https://sit.propertyware.com/pw/api/v/calendar/events?appointmentType=Lease Signing&UserID=875233281
+https://sit.propertyware.com/pw/api/v/calendar/events?appointmentType=Lease Signing&UserID=717160448
+https://sit.propertyware.com/pw/api/v/calendar/events?appointmentType=Lease Signing&UserID=691830784
+https://sit.propertyware.com/pw/api/v/calendar/events?appointmentType=Lease Signing&UserID=947453953
+https://sit.propertyware.com/pw/api/v/calendar/events?appointmentType=Lease Signing&UserID=847740928
+https://sit.propertyware.com/pw/api/v/calendar/events?appointmentType=Lease Signing&UserID=1089208320
+https://sit.propertyware.com/pw/api/v/calendar/events?appointmentType=Lease Signing&UserID=1173422080
+https://sit.propertyware.com/pw/api/v/calendar/events?appointmentType=Lease Signing&UserID=844267520
+https://sit.propertyware.com/pw/api/v/calendar/events?appointmentType=Lease Signing&UserID=1184727040
+https://sit.propertyware.com/pw/api/v/calendar/events?appointmentType=Lease Signing&UserID=1181777928
+https://sit.propertyware.com/pw/api/v/calendar/events?appointmentType=Lease Signing&UserID=851378176
+https://sit.propertyware.com/pw/api/v/calendar/events?appointmentType=Lease Signing&UserID=346161152
+https://sit.propertyware.com/pw/api/v/calendar/events?appointmentType=Lease Signing&UserID=1069154304
+https://sit.propertyware.com/pw/api/v/calendar/events?appointmentType=Lease Signing&UserID=637337600
+https://sit.propertyware.com/pw/api/v/calendar/events?appointmentType=Meeting&UserID=875233281
+https://sit.propertyware.com/pw/api/v/calendar/events?appointmentType=Meeting&UserID=717160448
+https://sit.propertyware.com/pw/api/v/calendar/events?appointmentType=Meeting&UserID=691830784
+https://sit.propertyware.com/pw/api/v/calendar/events?appointmentType=Meeting&UserID=947453953
+https://sit.propertyware.com/pw/api/v/calendar/events?appointmentType=Meeting&UserID=847740928
+https://sit.propertyware.com/pw/api/v/calendar/events?appointmentType=Meeting&UserID=1089208320
+https://sit.propertyware.com/pw/api/v/calendar/events?appointmentType=Meeting&UserID=1173422080
+https://sit.propertyware.com/pw/api/v/calendar/events?appointmentType=Meeting&UserID=844267520
+https://sit.propertyware.com/pw/api/v/calendar/events?appointmentType=Meeting&UserID=1184727040
+https://sit.propertyware.com/pw/api/v/calendar/events?appointmentType=Meeting&UserID=1181777928
+https://sit.propertyware.com/pw/api/v/calendar/events?appointmentType=Meeting&UserID=851378176
+https://sit.propertyware.com/pw/api/v/calendar/events?appointmentType=Meeting&UserID=346161152
+https://sit.propertyware.com/pw/api/v/calendar/events?appointmentType=Meeting&UserID=1069154304
+https://sit.propertyware.com/pw/api/v/calendar/events?appointmentType=Meeting&UserID=637337600
+https://sit.propertyware.com/pw/api/v/calendar/events?appointmentType=Move In Walk Thru&UserID=875233281
+https://sit.propertyware.com/pw/api/v/calendar/events?appointmentType=Move In Walk Thru&UserID=717160448
+https://sit.propertyware.com/pw/api/v/calendar/events?appointmentType=Move In Walk Thru&UserID=691830784
+https://sit.propertyware.com/pw/api/v/calendar/events?appointmentType=Move In Walk Thru&UserID=947453953
+https://sit.propertyware.com/pw/api/v/calendar/events?appointmentType=Move In Walk Thru&UserID=847740928
+https://sit.propertyware.com/pw/api/v/calendar/events?appointmentType=Move In Walk Thru&UserID=1089208320
+https://sit.propertyware.com/pw/api/v/calendar/events?appointmentType=Move In Walk Thru&UserID=1173422080
+https://sit.propertyware.com/pw/api/v/calendar/events?appointmentType=Move In Walk Thru&UserID=844267520
+https://sit.propertyware.com/pw/api/v/calendar/events?appointmentType=Move In Walk Thru&UserID=1184727040
+https://sit.propertyware.com/pw/api/v/calendar/events?appointmentType=Move In Walk Thru&UserID=1181777928
+https://sit.propertyware.com/pw/api/v/calendar/events?appointmentType=Move In Walk Thru&UserID=851378176
+https://sit.propertyware.com/pw/api/v/calendar/events?appointmentType=Move In Walk Thru&UserID=346161152
+https://sit.propertyware.com/pw/api/v/calendar/events?appointmentType=Move In Walk Thru&UserID=1069154304
+https://sit.propertyware.com/pw/api/v/calendar/events?appointmentType=Move In Walk Thru&UserID=637337600
+https://sit.propertyware.com/pw/api/v/calendar/events?appointmentType=Move Out Walk Thru&UserID=875233281
+https://sit.propertyware.com/pw/api/v/calendar/events?appointmentType=Move Out Walk Thru&UserID=717160448
+https://sit.propertyware.com/pw/api/v/calendar/events?appointmentType=Move Out Walk Thru&UserID=691830784
+https://sit.propertyware.com/pw/api/v/calendar/events?appointmentType=Move Out Walk Thru&UserID=947453953
+https://sit.propertyware.com/pw/api/v/calendar/events?appointmentType=Move Out Walk Thru&UserID=847740928
+https://sit.propertyware.com/pw/api/v/calendar/events?appointmentType=Move Out Walk Thru&UserID=1089208320
+https://sit.propertyware.com/pw/api/v/calendar/events?appointmentType=Move Out Walk Thru&UserID=1173422080
+https://sit.propertyware.com/pw/api/v/calendar/events?appointmentType=Move Out Walk Thru&UserID=844267520
+https://sit.propertyware.com/pw/api/v/calendar/events?appointmentType=Move Out Walk Thru&UserID=1184727040
+https://sit.propertyware.com/pw/api/v/calendar/events?appointmentType=Move Out Walk Thru&UserID=1181777928
+https://sit.propertyware.com/pw/api/v/calendar/events?appointmentType=Move Out Walk Thru&UserID=851378176
+https://sit.propertyware.com/pw/api/v/calendar/events?appointmentType=Move Out Walk Thru&UserID=346161152
+https://sit.propertyware.com/pw/api/v/calendar/events?appointmentType=Move Out Walk Thru&UserID=1069154304
+https://sit.propertyware.com/pw/api/v/calendar/events?appointmentType=Move Out Walk Thru&UserID=637337600
+https://sit.propertyware.com/pw/api/v/calendar/events?appointmentType=Other&UserID=875233281
+https://sit.propertyware.com/pw/api/v/calendar/events?appointmentType=Other&UserID=717160448
+https://sit.propertyware.com/pw/api/v/calendar/events?appointmentType=Other&UserID=691830784
+https://sit.propertyware.com/pw/api/v/calendar/events?appointmentType=Other&UserID=947453953
+https://sit.propertyware.com/pw/api/v/calendar/events?appointmentType=Other&UserID=847740928
+https://sit.propertyware.com/pw/api/v/calendar/events?appointmentType=Other&UserID=1089208320
+https://sit.propertyware.com/pw/api/v/calendar/events?appointmentType=Other&UserID=1173422080
+https://sit.propertyware.com/pw/api/v/calendar/events?appointmentType=Other&UserID=844267520
+https://sit.propertyware.com/pw/api/v/calendar/events?appointmentType=Other&UserID=1184727040
+https://sit.propertyware.com/pw/api/v/calendar/events?appointmentType=Other&UserID=1181777928
+https://sit.propertyware.com/pw/api/v/calendar/events?appointmentType=Other&UserID=851378176
+https://sit.propertyware.com/pw/api/v/calendar/events?appointmentType=Other&UserID=346161152
+https://sit.propertyware.com/pw/api/v/calendar/events?appointmentType=Other&UserID=1069154304
+https://sit.propertyware.com/pw/api/v/calendar/events?appointmentType=Other&UserID=637337600
+https://sit.propertyware.com/pw/api/v/calendar/events?userId=346161152
+https://sit.propertyware.com/pw/api/v/documents/SampleDocument.pdf/No/No/No
+https://sit.propertyware.com/pw/api/v/documents
+https://sit.propertyware.com/pw/api/v/documents/2760605696
+https://sit.propertyware.com/pw/api/v/dashboards
+https://sit.propertyware.com/pw/api/v/dashboards
+https://sit.propertyware.com/pw/api/v/dashboards
+https://sit.propertyware.com/pw/api/v/dashboards/default/703889409
+https://sit.propertyware.com/pw/api/v/dashboards/reports
+https://sit.propertyware.com/pw/api/v/dashlets
+https://sit.propertyware.com/pw/api/v/dashlets
+https://sit.propertyware.com/pw/api/v/dashlets/801144833?showAllRecords=true
+https://sit.propertyware.com/pw/api/v/dashboards/703889409?refresh=false
+https://sit.propertyware.com/pw/api/v/dashboards/703889409
+https://sit.propertyware.com/pw/api/v/notes
+https://sit.propertyware.com/pw/api/v/notes/2164752384
+https://sit.propertyware.com/pw/api/v/notes
+https://sit.propertyware.com/pw/api/v/notes/2164752384
+https://sit.propertyware.com/pw/api/v/tasks
+https://sit.propertyware.com/pw/api/v/tasks/filter
+https://sit.propertyware.com/pw/api/v/tasks/filter
+https://sit.propertyware.com/pw/api/v/tasks/filter
+https://sit.propertyware.com/pw/api/v/tasks
+https://sit.propertyware.com/pw/api/v/tasks/comments
+https://sit.propertyware.com/pw/api/v/tasks/comments/1080229891
+https://sit.propertyware.com/pw/api/v/tasks/entities/a
+https://sit.propertyware.com/pw/api/v/tasks/delegates
+https://sit.propertyware.com/pw/api/v/tasks/tags
+https://sit.propertyware.com/pw/api/v/tasks/templates
+https://sit.propertyware.com/pw/api/v/tasks/1080229891
+https://sit.propertyware.com/pw/api/v/tenant/application/v1/customFields
+https://sit.propertyware.com/pw/api/v/tenant/application/v1/customFields/921305088
+https://sit.propertyware.com/pw/api/v/tenant/application/v1/customFields
+https://sit.propertyware.com/pw/api/v/tenant/application/v1/customFields/921305088
+https://sit.propertyware.com/pw/api/v/tenant/application/v1/settings?websiteId=113
+https://sit.propertyware.com/pw/api/v/tenant/application/v1/settings
+https://sit.propertyware.com/pw/api/v/tenant/application/v1/themes?websiteId=113
+https://sit.propertyware.com/pw/api/v/tenant/application/v1/themes
